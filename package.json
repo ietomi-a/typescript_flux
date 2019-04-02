@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "__comment": "node_modules/.bin/webpack, node_modules/.bin/serve",
     "build": "webpack",
-    "start": "serve"
+    "start": "serve"  
   },
   "keywords": [],
   "author": "",
