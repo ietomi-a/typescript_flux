@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "bash webpack.sh",
-    "start": "bash serve.sh"
+    "build": "webpack",
+    "start": "serve"
   },
   "keywords": [],
   "author": "",
